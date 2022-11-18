@@ -1,5 +1,5 @@
 server:
-#  This is the eureka server port
+#  This is the inbuilt eureka server port
   port: 8761
 
 eureka:
