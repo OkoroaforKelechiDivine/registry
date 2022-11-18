@@ -1,0 +1,8 @@
+server:
+#  This is the eureka server port
+  port: 8761
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
